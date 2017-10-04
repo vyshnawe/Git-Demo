@@ -141,7 +141,7 @@
 			files = (
 				0D4BCEB51F854B64002B4653 /* BViewController.swift in Sources */,
 				0D4BCEB11F854B64002B4653 /* AppDelegate.swift in Sources */,
-				0D4BCEB31F854B64002B4653 /* FirstViewController.swift in Sources */,
+				0D4BCEB31F854B64002B4653 /* AViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
